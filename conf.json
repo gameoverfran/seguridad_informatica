@@ -1,0 +1,12 @@
+{
+ "our_user": "",
+ "password": "",
+ "max_photos": "100",
+ "extraer_follow_ers": "True",
+ "extraer_follow_ing": "True",
+ "dir_name": "users_info_dir",
+ "login_url": "https://www.instagram.com/accounts/login/?source=deactivate",
+ "save_session_info": "True",
+ "main_page": "https://www.instagram.com/",
+ "first_time": "True"
+}
